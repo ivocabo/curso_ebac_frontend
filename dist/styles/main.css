@@ -1,0 +1,13 @@
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: #ccc;
+  border: 1px solid #999;
+  margin: 20px;
+  padding: 10px;
+}

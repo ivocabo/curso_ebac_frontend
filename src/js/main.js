@@ -1,0 +1,3 @@
+function calcularQuadrado(numero) {
+    return numero * numero;
+}
